@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cigna" />
+        <module name="Costco" />
+        <module name="Ebay" />
+        <module name="Generic" />
+        <module name="Instagram" />
+        <module name="NetFlix" />
+        <module name="TDBank" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cigna" target="1.5" />
+      <module name="Costco" target="1.5" />
+      <module name="Ebay" target="1.5" />
+      <module name="Generic" target="1.5" />
+      <module name="Instagram" target="1.5" />
+      <module name="NetFlix" target="1.5" />
+      <module name="TDBank" target="1.5" />
+      <module name="Web-Automation-Project-Team-8" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cigna/Cigna.iml" filepath="$PROJECT_DIR$/Cigna/Cigna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Costco/Costco.iml" filepath="$PROJECT_DIR$/Costco/Costco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebay/Ebay.iml" filepath="$PROJECT_DIR$/Ebay/Ebay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instagram/Instagram.iml" filepath="$PROJECT_DIR$/Instagram/Instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetFlix/NetFlix.iml" filepath="$PROJECT_DIR$/NetFlix/NetFlix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDBank/TDBank.iml" filepath="$PROJECT_DIR$/TDBank/TDBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web-Automation-Project-Team-8.iml" filepath="$PROJECT_DIR$/Web-Automation-Project-Team-8.iml" />
+    </modules>
+  </component>
+</project>
